@@ -14,3 +14,6 @@ LedgerDB: A Centralized Ledger Database for Universal Audit and Verification
 
 
 A Novel Attribute-Based Access Control Scheme Using Blockchain for IoT
+
+
+Blockchain Meets IoT: An Architecture for Scalable Access Management in IoT
