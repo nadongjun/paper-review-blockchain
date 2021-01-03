@@ -17,3 +17,6 @@ A Novel Attribute-Based Access Control Scheme Using Blockchain for IoT
 
 
 Blockchain Meets IoT: An Architecture for Scalable Access Management in IoT
+
+
+Permissioned Blockchain and Edge Computing Empowered Privacy-Preserving Smart Grid Networks
