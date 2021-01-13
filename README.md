@@ -20,3 +20,6 @@ Blockchain Meets IoT: An Architecture for Scalable Access Management in IoT
 
 
 Permissioned Blockchain and Edge Computing Empowered Privacy-Preserving Smart Grid Networks
+
+
+Decentralized Access Control for IoT Data Using Blockchain and Trusted Oracles
