@@ -29,4 +29,7 @@ A Distributed Oracle Using Intel SGX for Blockchain-Based IoT Applications
 
 
 Decentralized Access Control for IoT Data Using Blockchain and Trusted Oracles
+
+
+Service architecture of IoT terminal connection based on blockchain identity authentication system
 ```
