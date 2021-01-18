@@ -21,6 +21,9 @@ Blockchain Meets IoT: An Architecture for Scalable Access Management in IoT
  
 
 Permissioned Blockchain and Edge Computing Empowered Privacy-Preserving Smart Grid Networks
+
+
+Decentralized Access Control for IoT Data Using Blockchain and Trusted Oracles
 ```
 
 ### 읽는중
@@ -28,8 +31,8 @@ Permissioned Blockchain and Edge Computing Empowered Privacy-Preserving Smart Gr
 A Distributed Oracle Using Intel SGX for Blockchain-Based IoT Applications
 
 
-Decentralized Access Control for IoT Data Using Blockchain and Trusted Oracles
-
-
 Service architecture of IoT terminal connection based on blockchain identity authentication system
+
+
+Cosmos Whitepaper
 ```
