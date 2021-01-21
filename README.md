@@ -35,4 +35,7 @@ Service architecture of IoT terminal connection based on blockchain identity aut
 
 
 Cosmos Whitepaper
+
+
+Blockchain-Based, Decentralized Access Control for IPFS
 ```
