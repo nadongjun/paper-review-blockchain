@@ -38,4 +38,7 @@ Cosmos Whitepaper
 
 
 Blockchain-Based, Decentralized Access Control for IPFS
+
+
+A permissioned blockchain based access control system for IOT
 ```
