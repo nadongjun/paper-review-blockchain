@@ -42,3 +42,8 @@ Blockchain-Based, Decentralized Access Control for IPFS
 
 A permissioned blockchain based access control system for IOT
 ```
+
+### 오픈소스
+```
+https://github.com/sipa/secp256k1/blob/968e2f415a5e764d159ee03e95815ea11460854e/src/modules/schnorr/schnorr.md
+```
