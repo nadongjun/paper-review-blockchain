@@ -24,6 +24,9 @@ Permissioned Blockchain and Edge Computing Empowered Privacy-Preserving Smart Gr
 
 
 Decentralized Access Control for IoT Data Using Blockchain and Trusted Oracles
+
+
+Blockchain-Based, Decentralized Access Control for IPFS
 ```
 
 ### 읽는중
@@ -35,9 +38,6 @@ Service architecture of IoT terminal connection based on blockchain identity aut
 
 
 Cosmos Whitepaper
-
-
-Blockchain-Based, Decentralized Access Control for IPFS
 
 
 A permissioned blockchain based access control system for IOT
