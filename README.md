@@ -27,6 +27,12 @@ Decentralized Access Control for IoT Data Using Blockchain and Trusted Oracles
 
 
 Blockchain-Based, Decentralized Access Control for IPFS
+
+
+A survey on Blockchain based access control for Internet of Things (review paper)
+
+
+Blockchain based access control systems: State of the art and challenges (review paper)
 ```
 
 ### 읽는중
@@ -43,13 +49,7 @@ Cosmos Whitepaper
 A permissioned blockchain based access control system for IOT
 
 
-A survey on Blockchain based access control for Internet of Things (review paper)
-
-
 A Blockchain-based Decentralized Data Storage and Access Framework for PingER
-
-
-Blockchain based access control systems: State of the art and challenges (review paper)
 ```
 
 ### 오픈소스
