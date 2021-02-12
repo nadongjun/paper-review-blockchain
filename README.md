@@ -50,6 +50,8 @@ A permissioned blockchain based access control system for IOT
 
 
 A Blockchain-based Decentralized Data Storage and Access Framework for PingER
+
+Blockchain in Space Industry - Challenges and Solutions- (arxiv)
 ```
 
 ### 오픈소스
